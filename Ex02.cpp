@@ -26,13 +26,13 @@ int main() {
     string mensagem;
     
     cout << "Digite uma mensagem: ";
-    // getline lê a linha inteira com espaço
+    // getline lÃª a linha inteira com espaÃ§o
     getline(cin, mensagem);
     
     if (ehPalindromo(mensagem)) {
-        cout << "\nA mensagem é um palindromo." << endl;
+        cout << "\nA mensagem Ã© um palindromo." << endl;
     } else {
-        cout << "\nA mensagem não é um palindromo." << endl;
+        cout << "\nA mensagem nÃ£o Ã© um palindromo." << endl;
     }
     
     cout << "\nPressione Enter para sair...";
