@@ -1,4 +1,6 @@
 # Exercícios de C++
-Dupla:.
-João Victor Lima Venceslau.
-Rayssa Silva de Oliveira.
+Dupla:
+<br/>
+João Victor Lima Venceslau
+<br/>
+Rayssa Silva de Oliveira
